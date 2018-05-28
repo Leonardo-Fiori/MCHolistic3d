@@ -1,3 +1,3 @@
-# MCHolistic3d
+# Unity MC Remake
 
-A Unity 3D Minecraft clone as explained by Holistic3d on Udemy.
+A Unity Minecraft clone i am working on.
